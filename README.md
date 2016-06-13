@@ -1,5 +1,5 @@
 # django-bad-migrations
-Demo project that shows django generating migrations for ever.
+Demo project that shows django generating migrations for ever in Django 1.9.6.
 
 # Running
 To see behaviour run:
